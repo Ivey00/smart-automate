@@ -8,7 +8,7 @@
 // Configuration
 // ===================================
 const CONFIG = {
-    API_BASE_URL: 'https://smart-automate-ent.app.n8n.cloud/webhook',
+    API_BASE_URL: 'https://smart-automate-pp.app.n8n.cloud/webhook',
     ENDPOINTS: {
         'email-manager': '/smart-email-manager',
         'invoice-generator': '/smart-invoice-generator',
